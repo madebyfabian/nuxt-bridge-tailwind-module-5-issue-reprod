@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27374259.21b664c",
+    "@nuxtjs/tailwindcss": "^5.0.0-4",
     "@vue/runtime-dom": "^3.2.27",
     "nuxt-edge": "^2.16.0-27358576.777a4b7f"
   }

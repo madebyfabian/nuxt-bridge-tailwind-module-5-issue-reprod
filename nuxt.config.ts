@@ -4,4 +4,8 @@ export default defineNuxtConfig({
 	target: 'server',
 	ssr: true,
 	components: true,
+
+	buildModules: [
+		'@nuxtjs/tailwindcss'
+	],
 })

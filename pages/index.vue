@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="p-12">
 		<h1>{{ title }}</h1>
 		<pre>{{ data }}</pre>
 		<Hello />
